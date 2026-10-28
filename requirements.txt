@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langgraph
+faiss-cpu
+sentence-transformers
+httpx
